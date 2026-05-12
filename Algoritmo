@@ -1,0 +1,18 @@
+Algoritmo
+Iniciar programa.
+Mostrar menú principal.
+Pedir al usuario seleccionar una opción.
+Si selecciona “Escribir reseña”:
+Pedir nombre del juego.
+Mostrar información básica.
+Solicitar calificación.
+Solicitar opinión.
+Preguntar si recomienda el juego.
+Guardar información.
+Mostrar confirmación.
+Si selecciona “Ver reseñas”:
+Pedir nombre del juego.
+Buscar reseñas.
+Mostrar resultados encontrados.
+Preguntar si desea regresar al menú.
+Finalizar programa.
