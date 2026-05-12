@@ -1,3 +1,1 @@
 # Proyecto_escolar
-
-Problema: HACER UNA PAGINA PARA CALIFICAR JUEGOS
