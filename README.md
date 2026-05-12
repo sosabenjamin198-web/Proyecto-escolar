@@ -1,2 +1,2 @@
 # Proyecto_escolar
-trabajjo en equeipdvj
+trabajo en colaboracion Hades y chavo
