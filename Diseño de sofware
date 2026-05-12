@@ -1,1 +1,26 @@
+Diseño del software
+Diseño del software
 
+El programa funcionará mediante un menú interactivo en consola desarrollado en PSeInt.
+
+Funciones principales:
+Escribir reseña
+Ver reseñas
+Calificar videojuegos
+Mostrar información del juego
+Guardar opiniones temporalmente
+Entradas:
+Nombre del juego
+Calificación
+Opinión
+Plataforma
+Horas jugadas
+Procesos:
+Validación de datos
+Mostrar menús
+Guardar información en variables
+Mostrar resultados
+Salidas:
+Confirmación de reseña publicada
+Lista de reseñas
+Puntajes de videojuegos
